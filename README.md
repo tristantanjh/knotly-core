@@ -1,2 +1,2 @@
-# knotly-core
-Knotly - Wedding Planning Made Easy
+# Knotly - Wedding Planning Made Easy
+
