@@ -1,12 +1,16 @@
-# Knotly
+<h1 align="center">Knotly</h1>
 
-**An AI-powered wedding planning platform that unifies couples, guests, and vendors in one place.**
+<p align="center">
+  <img src="assets/banner.png" alt="Knotly — From vision to vows" width="720" />
+</p>
+
+<p align="center">
+  <b>An AI-powered wedding planning platform that unifies couples, guests, and vendors in one place.</b>
+</p>
 
 Knotly is a full-stack capstone project that reimagines wedding planning as an end-to-end marketplace and toolkit — from vendor discovery and bookings, to AI-driven seating charts and date scheduling, to guest-facing wedding microsites, RSVPs, gratitude cards, and shared photo albums with face-clustered galleries.
 
-**Live deployment**
-- Couples & guests — [knotly.app](https://knotly.app)
-- Vendor & admin portal — [core.knotly.app](https://core.knotly.app)
+**Previously deployed to production** at `knotly.app` (couples & guests) and `core.knotly.app` (vendor & admin portal) on AWS via SST and OpenNext. The live site has been retired post-graduation; see the screenshots below for a walkthrough.
 
 ---
 
@@ -76,6 +80,40 @@ The frontend is split into two Next.js apps inside one Turborepo workspace and d
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/logged_in_landing.png" alt="Logged-in landing dashboard" width="800" />
+  <br />
+  <em>Logged-in landing: the couple's home base, surfacing planning progress at a glance.</em>
+</p>
+
+<p align="center">
+  <img src="assets/wedding_progress_planner.png" alt="Wedding progress planner" width="800" />
+  <br />
+  <em>Wedding progress planner: AI-generated, stage-by-stage planning checklist tailored to the couple.</em>
+</p>
+
+<p align="center">
+  <img src="assets/seat_planner.png" alt="AI-powered seat planner" width="800" />
+  <br />
+  <em>Seating chart editor: drag-and-drop layout backed by a constraint-satisfaction optimizer (PuLP + NetworkX).</em>
+</p>
+
+<p align="center">
+  <img src="assets/marketplace.png" alt="Vendor marketplace" width="800" />
+  <br />
+  <em>Vendor marketplace: discover, filter, and shortlist vendors, ranked by the hybrid recommender.</em>
+</p>
+
+<p align="center">
+  <img src="assets/orders.png" alt="Orders & bookings" width="800" />
+  <br />
+  <em>Orders &amp; bookings: Stripe-powered checkout, refunds, and vendor booking confirmations.</em>
+</p>
+
+---
+
 ## Tech stack
 
 **Frontend** — Next.js 15, React 19, TypeScript, Tailwind CSS, shadcn/ui, Turborepo, Zustand, NextAuth, Framer Motion, React Three Fiber, AI SDK, Recharts.
@@ -136,6 +174,18 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) for the customer site and [http://localhost:3001](http://localhost:3001) for the admin portal.
+
+---
+
+## The team
+
+<p align="center">
+  <img src="assets/team.jpg" alt="The Knotly team" width="420" />
+</p>
+
+<p align="center">
+  Knotly was built by our team of six as our final-year capstone project.
+</p>
 
 ---
 
