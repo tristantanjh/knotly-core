@@ -1,0 +1,9 @@
+[submodule "ai-backend"]
+	path = ai-backend
+	url = https://github.com/tristantanjh/wedding-management-ai-backend.git
+[submodule "core-backend"]
+	path = core-backend
+	url = https://github.com/tristantanjh/wedding-management-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/tristantanjh/wedding-management-frontend-admin.git
