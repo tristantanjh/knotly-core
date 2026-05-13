@@ -1,7 +1,7 @@
 <h1 align="center">Knotly</h1>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Knotly — From vision to vows" width="720" />
+  <img src="assets/banner.png" alt="Knotly — Stress not, Tie the knot" width="720" />
 </p>
 
 <p align="center">
