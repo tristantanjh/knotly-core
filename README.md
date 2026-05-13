@@ -8,7 +8,7 @@
   <b>An AI-powered, end-to-end wedding planning platform that supports couples through every phase of their journey — before, during, and after the big day.</b>
 </p>
 
-Knotly is a full-stack capstone project that reimagines wedding planning as a true end-to-end experience for couples, guests, and vendors alike, covering the entire lifecycle of a wedding:
+Knotly reimagines wedding planning as a true end-to-end experience for couples, guests, and vendors alike, covering the entire lifecycle of a wedding:
 
 - **Before the big day** — AI-generated planning checklists, vendor discovery and bookings, budget tracking, seating optimization, and date scheduling.
 - **On the big day** — guest-facing microsites, RSVP invitations, self-attendance check-in, and live guestbook.
