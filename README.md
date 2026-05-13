@@ -5,10 +5,14 @@
 </p>
 
 <p align="center">
-  <b>An AI-powered wedding planning platform that unifies couples, guests, and vendors in one place.</b>
+  <b>An AI-powered, end-to-end wedding planning platform that supports couples through every phase of their journey — before, during, and after the big day.</b>
 </p>
 
-Knotly is a full-stack capstone project that reimagines wedding planning as an end-to-end marketplace and toolkit — from vendor discovery and bookings, to AI-driven seating charts and date scheduling, to guest-facing wedding microsites, RSVPs, gratitude cards, and shared photo albums with face-clustered galleries.
+Knotly is a full-stack capstone project that reimagines wedding planning as a true end-to-end experience for couples, guests, and vendors alike, covering the entire lifecycle of a wedding:
+
+- **Before the big day** — AI-generated planning checklists, vendor discovery and bookings, budget tracking, seating optimization, and date scheduling.
+- **On the big day** — guest-facing microsites, RSVP invitations, self-attendance check-in, and live guestbook.
+- **After the big day** — gratitude card generation, face-clustered photo albums, cash gift settlement, and vendor reviews.
 
 **Previously deployed to production** at `knotly.app` (couples & guests) and `core.knotly.app` (vendor & admin portal) on AWS via SST and OpenNext. The live site has been retired post-graduation; see the screenshots below for a walkthrough.
 
